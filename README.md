@@ -50,15 +50,15 @@ Latest source code version can be fetched from [here](https://github.com/drk1wi/
 
 Fetch the code with _'go get'_ :
 
-    $ go get -u github.com/drk1wi/Modlishka
+    $ go get -u github.com/trhacknon/Modlishka
 
 Compile the binary and you are ready to go:
 
-    $ cd $GOPATH/src/github.com/drk1wi/Modlishka/
+    $ cd $GOPATH/src/github.com/trhacknon/Modlishka/
     $ make
     
     
-![alt text](https://raw.githubusercontent.com/drk1wi/assets/master/7d0426a133a85a46a76a424574bf5a2acf99815e.png)
+![alt text](https://raw.githubusercontent.com/trhacknon/assets/master/7d0426a133a85a46a76a424574bf5a2acf99815e.png)
 
     # ./dist/proxy -h
   
@@ -137,18 +137,18 @@ Compile the binary and you are ready to go:
 Usage
 -----
 
- * Check out the [wiki](https://github.com/drk1wi/Modlishka/wiki) page for a more detailed overview of the tool usage.
- * [FAQ](https://github.com/drk1wi/Modlishka/wiki/FAQ) (Frequently Asked Questions)
+ * Check out the [wiki](https://github.com/trhacknon/Modlishka/wiki) page for a more detailed overview of the tool usage.
+ * [FAQ](https://github.com/trhacknon/Modlishka/wiki/FAQ) (Frequently Asked Questions)
  * [Blog post](https://blog.duszynski.eu/phishing-ng-bypassing-2fa-with-modlishka/)
 
 
 License
 -------
-Modlishka was made by Piotr Duszyński ([@drk1wi](https://twitter.com/drk1wi)). You can find the license [here](https://github.com/drk1wi/Modlishka/blob/master/LICENSE).
+Modlishka was made by Piotr Duszyński ([@drk1wi](https://twitter.com/)). You can find the license [here](https://github.com/trhacknon/Modlishka/blob/master/LICENSE).
 
 Credits
 -------
-Thanks for helping with the code go to Giuseppe Trotta ([@Giutro](https://twitter.com/giutro)) 
+Thanks for helping with the code go to Giuseppe Trotta ([@Giutro](https://twitter.com/)) 
 
 
 Disclaimer
@@ -157,6 +157,6 @@ This tool is made only for educational purposes and can be only used in legitima
 
 -------
 
-[![Twitter](https://img.shields.io/badge/twitter-drk1wi-blue.svg)](https://twitter.com/drk1wi)
+[![Twitter](https://img.shields.io/badge/twitter-trhacknon-blue.svg)](https://twitter.com/)
 
 
